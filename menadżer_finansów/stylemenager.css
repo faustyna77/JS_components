@@ -1,0 +1,45 @@
+body{
+    background-color: white;
+}
+
+.btn1
+{
+height:100px;
+width:100px;
+
+border-radius: 50%;
+cursor: pointer;
+
+
+}
+.light
+{
+    background-color: white;
+
+}
+.dark
+{
+   
+background-color:black;
+
+
+}
+
+.transaction-options
+{
+    display: none;
+    flex-direction: column;
+    justify-content: none;
+    align-items: center;
+    top:0;
+    left:0;
+    background-color: royalblue;
+    height: 100%;
+    width: 100%;
+    position: absolute;
+}
+
+.classul
+{
+    background-color: aqua;
+}
